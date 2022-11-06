@@ -1,2 +1,4 @@
 # CSGO-ROLL-ROULETTE-PREDICTOR
 CSGOROLL.COM-ROULETTE-PREDICTOR WORKS 100% VERY ACCURATE
+
+![image](https://user-images.githubusercontent.com/84667937/200172608-9b6b2fad-b72c-497f-a76b-e53b871aef2e.png)
